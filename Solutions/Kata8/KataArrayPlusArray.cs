@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Solutions.Kata8
 {
-    public class KataArrayPlusArray
+    public class KataArrayPlusArray  
     {
         public static int ArrayPlusArray(int[] arr1, int[] arr2)
         {
